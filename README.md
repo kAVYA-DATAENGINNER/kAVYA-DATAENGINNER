@@ -49,7 +49,12 @@ It showcases:
 - Mapping and transformation using Copy Activity
 - Logging and monitoring for successful data movement
 
-You’ll find a `README.md` in that folder explaining every step.
+<img width="956" alt="EXCEL TO SQL" src="https://github.com/user-attachments/assets/2f128227-c3b6-4cf0-af12-d8490192eaef" />
+<img width="959" alt="EXCEL TO SQL SINK" src="https://github.com/user-attachments/assets/752d478a-addf-48d0-b25e-e6802ca0a8ee" />
+<img width="958" alt="EXCEL TO SQL DATABASE" src="https://github.com/user-attachments/assets/3333c59a-b6e6-4661-8674-4af150055b55" />
+
+
+
 
 ---
 
